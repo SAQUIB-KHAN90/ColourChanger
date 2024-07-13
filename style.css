@@ -1,0 +1,27 @@
+html{
+    margin: 0;
+}
+span{
+    display: block;
+}
+.button{
+    height: 100px;
+    width: 100px;
+    border: 1px solid black;
+    display: inline-block;
+}
+#grey{
+    background-color: gray;
+}
+#purple{
+    background-color: purple;
+}
+#skyblue{
+    background-color: skyblue;
+}
+#green{
+    background-color: green;
+}
+#orange{
+    background-color: orange;
+}
